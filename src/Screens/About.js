@@ -601,6 +601,823 @@ const About = () => {
             </Typography>
           </Box>
         </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329295/Picture6_vchnbv.png"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Monday O. ADENOMON (PhD)
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Monday Adenomon is an Associate Professor in the field of
+              Statistics, Department of Statistics, Nasarawa State University,
+              Keffi, Nigeria. He has PhD (Statistics) in 2016 from the better by
+              far University of Ilorin, Nigeria; M.Sc. (Statistics) in 2010;
+              B.Sc. (Statistics) in 2021; PGD in Statistics in 2008 and HND in
+              Statistics in 2004. His research areas include Econometrics; Time
+              series Analysis; Financial time series analysis; Spatial
+              Econometrics and Interdisciplinary Statistical Analysis;
+              communication in statistics.
+              <br />
+              <br /> He is an elected ISI Short Course and Outreach Officer
+              (2021-2023); Fellow, Royal statistical Society, UK; Fellow,
+              African Scientific Institute; International committee member,
+              IASC-LARS School of Computational Statistics and Data Science
+              (September, 2021); Chair of the International Association for
+              Statistical Computing (IASC) African Members Group (2021 till
+              date); Team Lead, Ambitious Africa Nigeria team (2020-2021);
+              Lead-Organizer of the Northern Nigeria LISA 2020 Symposium (2020);
+              Lead-Organizer, IASC physical symposium in Nigeria (2019 and
+              2021); LISA Scholar (2019); Member, Committee of Sport Statistics
+              Research Group of International Statistical Institutes (ISI) (2019
+              till date); Chartered Statistician of the Royal Statistical
+              Society (2019 till Date); Coordinator, NSUK-LISA Stat Lab (2018
+              till Date); Founder, Foundation of Laboratory for Econometrics &
+              Applied Statistics of Nigeria (aka Found-LEAS-in-Nigeria) (2018
+              till Date); Mentor, LISA 2020 Networks (2018 till date).
+              <br />
+              <br /> He has so many grants which include: Consultant and Partner
+              to eBASE on "We attain project" (2020); Statistical building
+              Consultant to Food and Agriculture Organisation (FAO, 2020 and
+              2021); R Users Group (RUGS) grant for statistical capacity
+              building (2021); TETFUND Institutional based research (2015);
+              TETFUND Manuscript publication grant (2017); TETFUND Institutional
+              based research (co-investigator, 2018); TETFUND International
+              conference travel grant (2019); TETFUND Institutional based
+              research grant (2019); ISI statistical capacity grant (2020).
+              <br />
+              <br /> He could be reached through: adenomonmo@nsuk.edu.ng . He
+              could also be found in:  Scopus with the following ID:
+              scopus.com/authid/detail.uri?authorld=57215507440 ;  Web of
+              Science ResearcherID: AAU-5175-2020 
+              Mendeley:Mendeley.com/authors/57215507440/  Google citation:
+              https://scholar.google.com/citations?user=fqNq8EcAAAAJ&hl=en 
+              Research gate citation:
+              https://www.researchgate.net/profile/Monday_Adenomon  Open
+              Research Contributors ID: https://orcid.org/0000-0002-9523-8032
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329286/Picture7_sdgwfn.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Dr Toluwase Janet AKINGBADE
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Toluwalase is a lecturer in Covenant University, Otta, Ogun State,
+              Nigeria. She obtained a Ph.D degree in Statistics from University
+              of Nigeria, Nsukka, Nigeria. She holds M.Sc. and B.Sc. (Hons)
+              degrees both in Statistics from University of Ilorin, Nigeria. She
+              was awarded as the best graduating Statistics student in her first
+              degree. Her Ph.D. research work was primarily focused on
+              developing efficient estimators for five different real-life
+              situations in survey. Her research interests are in areas of
+              Sample Survey, Demography, Quality Control, Biostatistics and Data
+              Sciences. Toluwalase has over nine years academic work experience
+              as a lecturer and researcher. She has published academic research
+              papers in different reputable journals and conferences. She has
+              professional certificate in Database and SQL for Data Sciences,
+              Machine Learning and Data Visualization with Python and R. She is
+              an active member of Nigerian Statistical Association (NSA-CISON)
+              and Microsoft Certified Professional (MCP). She has actively
+              participated as IT team in a virtual conference organized by some
+              associations in Nigeria.
+              <br />
+              <br />
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329295/Picture8_tnio0c.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Yusuf Akintunde Azeez
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Mr Yusuf is an experienced statistician with over twelve years of
+              experience in analyzing and interpreting complex data. He is a
+              first class product of Applied Mathematics from Bells University
+              of Technology, Ota, Nigeria. He holds a Master of Science (M.Sc.)
+              degree in Statistics obtained from University of Agriculture,
+              Makurdi, Nigeria.
+              <br />
+              <br />
+              However, he is a real-practical oriented person who has passed
+              through Kwara State Polytechnic, Ilorin, Nigeria for both National
+              Diploma (ND) and Higher National Diploma (HND) certification in
+              Statistics. Mr Yusuf also possesses a Postgraduate Diploma (PGD)
+              in Statistics from Ahmadu Bello University, Zaria, Nigeria. He is
+              an associate member of the Institute for Operation Research of
+              Nigeria. Also, he is a member of Nigerian Statistical Association.
+              <br />
+              <br />
+              He is currently an active staff of NAFDAC, Nigeria. He has won
+              several awards including 2021 Best Graduating Student of Physical
+              Science Faculty, Bells University of Technology, Ota, Nigeria;
+              most outstanding staff in PRS Department, NAFDAC 2013 Staff Merit
+              Award, and so on. He has served as organizing committee member for
+              some organizations within the country.
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329289/Picture9_aar811.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Kazeem Adeniyi ALAMU
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Alamu is a Principal Planning Officer at the Ministry of Economic
+              Planning, Budget and Development, Osun State. He is an
+              Educationist, a Mathematician and a Statistician. He bagged Higher
+              Diploma in Statistics from The Federal Polytechnic, Ede, Osun
+              State with Upper Credit Division in 2000 and furthered his study
+              at the Osun State University, Osogbo, Osun State between 2012-2015
+              where he obtained a Second-Class Upper Degree in Mathematics.
+              Here, he was among the best students for the department.
+              <br />
+              <br />
+              He proceeded to the great Obafemi Awolowo University, Ile-Ife,
+              Osun State for his Master of Science Degree in Statistics. Alamu
+              is an experienced data analyst with a vast knowledge in several
+              computer packages and statistical software such as Microsoft Word,
+              Microsoft Excel, Microsoft Access, LateX, Oracle Hyperion, SPSS,
+              jMULTI, STATA, R-Dialect, and EVIEWS.
+              <br />
+              <br /> Above all, Alamu is a seasoned Planner. He is leading
+              expert in preparation of High-level development documents:
+              National Development Plan, State Development Plan and Local
+              Development Plan, Medium Term Sector Strategy (MTSS), Medium Term
+              Expenditure Framework (MTEF), etc. He has attended professional
+              capacity building trainings within and outside Nigeria.
+              <br />
+              <br /> He, however, was privileged to have travelled out of the
+              country twice, precisely, Dakar, Senegal, on Strategic Planning
+              and Results-Based Budgeting and Gender-Responsive Economic Policy
+              Management. Currently, Alamu is a leading Data Expert in Osun
+              State and a consultant on preparation of High-Level Documents. He
+              has also co-led the hosting online conference held in Dakar,
+              Senegal through Zoom.
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329295/Picture10_fatd69.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Osahon Ukpebor
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Osahon Ukpebor is a dynamic and innovative Data Scientist
+              specializing in hydrogeology, with a profound commitment to
+              addressing the challenges of climate change and its impact on
+              groundwater resources. Holding a Master of Science in Hydrogeology
+              and Applied Geophysics, Osahon Ukpebor has developed a unique
+              expertise in the application of satellite data and machine
+              learning techniques to climate issues. He is currently the a
+              senior research officer under Osun R User Group.
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329293/Picture11_wchsc5.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Joseph Olawale BAMIDELE
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Joseph Olawale Bamidele is a B.Tech graduate majors in Mathematics
+              and its applications in the field of Software Development, Web
+              Design and Game Systems. He has worked on novel projects for
+              qodesquare as programming director and pursues causes related to
+              education using software technologies. As a Web Applications
+              Developer with grounded experience in JavaScript, MySQL and other
+              Backend Technologies, he is passionate about mentoring and
+              teaching others, enabling them with creative capacity to be
+              inventors and creators. He loves reading, meeting people of like
+              minds, tweaking and tinkering, and building useful stuffs.
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329296/Picture12_ckdpgo.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Obafemi Keshinro
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Mr. Obafemi Keshinro is a PAR and Head, Academic Process Planning
+              and Statistics, Academic Planning Unit, University of Lagos,
+              Nigeria. He had Higher National Diploma (HND) certification in
+              Statistics from the Yaba College of Technology, Yaba, Nigeria. He
+              possesses Postgraduate Diploma (PGD) and Master of Science (M.Sc.)
+              in Statistics from the University of Ibadan, Nigeria. He is also
+              holding Bachelor of Science (B.Sc.) degree in Economics from the
+              Lagos State University, Nigeria. Further to these, he is still
+              holding Master of Science (M.Sc.) in Economics and Master of
+              Science (M.Sc.) in Actuarial Science from the University of Lagos,
+              Nigeria. He is the founder of Chapter4.com.ng and
+              FlexismartSolutions.org. He is the coordinator of Applied Data
+              Science Community Learning and also a faculty advisor, ASA Nigeria
+              Student Chapter.
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329295/Picture14_bbgbhu.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Eleko Elizabeth
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Elizabeth is a trained professional statistician. She works as a
+              senior statistician with the national open university of Nigeria.
+              She holds Master of Science (M.Sc.) degree in Statistics from the
+              University of Lagos, Nigeria; Postgraduate Diploma in Education
+              and Bachelor of Science (B.Sc.) degree from the National Open
+              University, Nigeria; Higher National Diploma (HND) in Statistics
+              from the Federal Polytechnic, Ado-Ekiti, Nigeria. Elizabeth has
+              worked as Quality Control Officer at Handling Cocoa Producing
+              Company, Akure, Nigeria; Financial Planner at Cornerstone
+              Insurance Company, Port Harcourt, Nigeria. A member of several
+              professional bodies like Nigerian Institute of Management (NIM);
+              Nigerian Statistical Association (NSA), to mention but a few. She
+              is a certified R language expert. She equally has in-depth
+              knowledge of Excel and SPSS for data analytical science. She is
+              very good in planning events both physical and online via YouTube
+              and zoom.
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329295/Picture15_mtj5wh.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Dr Olumide ADESINA
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Olumide holds B.Sc. (Hons) degree in Mathematics from University
+              of Ilorin, Nigeria; MBA in Financial Management from Ladoke
+              Akintola University of Technology, Ogbomoso, Nigeria; M.Sc. in
+              Statistics from University of Lagos, Nigeria; and Ph.D. Statistics
+              from Olabisi Onabanjo University, Ago-Iwoye, Nigeria. He is a
+              lecturer in the Department of Mathematical Sciences, Redeemer’s
+              University, Ede, Osun State, Nigeria. His area of specialization
+              is Mathematical Statistics as well as computational Statistics. He
+              has published over 40 scholarly articles in reputable outlets. His
+              publications in Elsevier journals are sizable equally published
+              data sets in Elsevier Mendeley. He has reviewed about 160 journal
+              articles. Dr. Olumide Adesina is proficient in software such as R
+              and Python and has conducted several pieces of training in the
+              areas of Data Science and Business Analytics for Bankers,
+              Actuaries, operation managers, and policymakers in various
+              organizations. He is a professional member of the International
+              Association for Official Statistics (IAOS), and Secretary,
+              Nigerian Statistical Association (NSA), Ogun State chapter. He has
+              served as IT expert while hosting online webinars and virtual
+              conference for some organizations.
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329296/Picture16_id4ntd.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Dr (Mrs) Ifeyinwa DANIEL
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Dr. (Mrs.) Ifeyinwa Daniel is a Mathematician, a Functional and
+              Data Analyst, with so many years of teaching and research in
+              Mathematics. She has worked for various schools, universities,
+              colleges and research institution. She got her B.Sc. from the
+              University of Nigeria, Nsukka (UNN); M.Sc. and PhD from University
+              of Lagos (UNILAG) and Federal University of Agriculture, Abeokuta
+              (FUNAAB) respectively. Currently, she is a university lecturer in
+              Nigeria.
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329297/Picture17_dl60fy.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Mubasiru Asafe LAMIDI
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Mr. Lamidi is holds Bachelor and master’s degrees in Statistics
+              from University of Ilorin, Nigeria. He worked briefly with
+              department of Statistics, Federal Polytechnic, Ede, Nigeria
+              between 2002 and 2005 before proceeded to Universiteit Hasselt,
+              Diepenbeek Belgium where he further obtained MSc degrees in
+              Applied Statistics and Biostatistics. Mr. Lamidi has about 20
+              years’ working experience with some publications. He is also
+              experienced in data management, database administration and
+              Statistical methodologies such as General and Generalized linear
+              and linear mixed models, ANOVA, ANCOVA, survival analysis,
+              non-linear models, design and analysis of clinical trial data and
+              Bayesian modeling techniques. He is an expert in SAS®, R®, STATA®
+              and SPSS® software for Statistical analyses, Python, and Microsoft
+              SQL for data management. Mr. Lamidi is currently working with the
+              University of Calgary, Alberta in Canada. He is open to
+              collaborative works with colleagues and corporate organizations.
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
       </Box>
       <Footer />
     </>
