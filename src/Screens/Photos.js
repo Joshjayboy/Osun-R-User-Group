@@ -19,6 +19,14 @@ import Companies from "../components/Companies";
 import PhotosSlide from "../components/Photos";
 
 const Photos = () => {
+  const Item = styled(Paper)(({ theme }) => ({
+    backgroundColor: theme.palette.mode === "dark" ? "#1A2027" : "#fff",
+    ...theme.typography.body2,
+    padding: theme.spacing(1),
+    textAlign: "center",
+    color: theme.palette.text.secondary,
+  }));
+ 
   return (
     <>
       <Header />
@@ -302,9 +310,37 @@ const Photos = () => {
         </Box>
       </Box>
 
-      <PhotosSlide />
+      <Box
+        sx={{
+          mt: 5,
+        }}
+      >
+        <Box sx={{ flexGrow: 1 }}>
+          <Grid container spacing={2} columns={16}>
+            <Grid item xs={8}>
+              <Item>
+                <img
+                  style={{ maxWidth: "100%" }}
+                  alt="pic"
+                  src="https://res.cloudinary.com/pro-solve/image/upload/v1690679313/pic13_s7np4e.png"
+                />
+              </Item>
+            </Grid>
+            <Grid item xs={8}>
+              <Item>
+                <img
+                  style={{ maxWidth: "100%" }}
+                  alt="pic"
+                  src="https://res.cloudinary.com/pro-solve/image/upload/v1690679314/pic14_bicjvy.png"
+                />
+              </Item>
+            </Grid>
+          </Grid>
+        </Box>
+      </Box>
+      {/* <PhotosSlide /> */}
 
-      <Box sx={{ flexGrow: 1 }}>
+      {/* <Box sx={{ flexGrow: 1 }}>
         <Grid container spacing={2}>
           <Grid item xs={12} md={4}>
             <div
@@ -397,7 +433,7 @@ const Photos = () => {
             />
           </Grid>
         </Grid>
-      </Box>
+      </Box> */}
 
       <Footer />
     </>
