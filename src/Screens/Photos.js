@@ -319,11 +319,12 @@ const Photos = () => {
           <Grid item xs={12} md={4}>
             <div
               sx={{
-                width: "50%",
                 height: "50%",
               }}
             >
               <img
+                width="50%"
+                height="10%"
                 alt="this"
                 src="https://res.cloudinary.com/pro-solve/image/upload/v1702324110/Picture7_epjja5.jpg"
               />
@@ -337,6 +338,7 @@ const Photos = () => {
               }}
             >
               <img
+                 width="50%"
                 alt="this"
                 src="https://res.cloudinary.com/pro-solve/image/upload/v1702324112/Picture6_eo5bt6.jpg"
               />

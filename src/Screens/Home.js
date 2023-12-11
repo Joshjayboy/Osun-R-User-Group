@@ -613,38 +613,67 @@ const Home = () => {
                 letterSpacing: "1px",
               }}
             >
-              Professor Longe Olumide Babatope (MIEE. MNCS, MISOC, MirLab, MIEE,
-              MACM, MISACA, FASI, FSMART) holds a PhD degree in Computer Science
-              (Information Systems Security Specialization) from the University
-              of Benin, Benin City, Nigeria. A recipient of several
-              international awards, he is an alumnus UI-MacArthur Scholar and an
-              alumnus MIT Scholar. He was also a recipient of the prestigious
-              Fulbright SIR Fellowship as well as the highly coveted Heidelberg
-              Nobel Laureate Forum Fellowship in Germany. He is an endowed
-              Professor of Information Systems & Cyber Security Education with
-              the ICT University Foundation USA, A Senior Member of the
-              prestigious Institute of Electrical and Electronics Engineers
-              (IEEE), he is Seasoned in conceiving management information
-              systems theories (evidenced by scholastic publications), and
-              initiatives in ICT diffusion, innovation and uptake. Prof. Longe’s
-              research works on cyber security and allied domains are very
-              highly cited and has supported innovative developments globally
-              earning him recognitions as a pioneering scholar in understanding
-              cyber security causation, apprehension and treatments. He has
-              served in several universities in the capacity of Head of
-              Department, Dean, Director and Member of Governing Council. He has
-              supervised and examined several PhDs as well as Masters and
-              undergraduates in their numbers. He is an external examiner and
-              international collaborator to several Universities globally. He
-              has been named by Microsoft research as one of the leading experts
-              on privacy and information systems research. He is on the
-              Editorial Board of several multiple highly rated international
-              Journals and his works have been cited and quoted several thousand
-              times. Professor Longe Olumide is also known for his mentoring
-              skills and dynamism as well as his selfless approach to grooming
-              the younger generation. He is currently the Dean of the Faculty of
-              Computational Sciences & Informatics, Academic City University
-              College, Accra, Ghana.{" "}
+              Timothy A. Ogunleye, a seasoned statistician and visionary data
+              scientist, combines a robust academic foundation, extensive
+              industry experience, and a passion for advancing statistical
+              computing in Africa. His journey began at the prestigious
+              University of Ilorin, Nigeria, where he specialized in
+              Quantitative Modelling (Machine Learning), Econometrics,
+              Psychometrics, and Morphometrics, showcasing a deep interest in
+              Data Science, Biostatistics, Designs of Experiment, and Applied
+              Statistics. His comprehensive expertise encompasses a profound
+              understanding of Statistics and Mathematics, establishing him as a
+              respected authority in the field. Armed with a profound knowledge
+              of statistical analysis and computational methods, Timothy is an
+              expert in the R language, complemented by a strong command of SQL
+              and Python programming languages. His dedication to expanding his
+              skills led him to the Department of Computing at Macquarie
+              University, the City of Sydney, Australia, where he received
+              official certification as an R and Python Programmer in the realm
+              of Data Science. These credentials attest to his unwavering
+              commitment to mastering cutting-edge technologies and analytical
+              tools within the data science landscape. Timothy’s educational
+              pursuits initially commenced at the Federal Polytechnic, Ede,
+              Nigeria, where he earned both National Diploma (ND) and Higher
+              National Diploma (HND) certificates in Statistics, laying a solid
+              academic groundwork for his future accomplishments. Notably, he
+              currently serves as the Secretary-General of the International
+              Association for Statistical Computing, African Members Group
+              (IASC-AMG), demonstrating his influential presence in the
+              statistical community on an international level. Boasting over 16
+              years of extensive experience spanning across industries and
+              academia, Timothy has etched a distinguished career journey during
+              which he has contributed significantly to both scholarly and
+              professional domains. His intellectual prowess is reflected in his
+              extensive publication record, comprising numerous academic papers
+              that have made a noteworthy impact both locally and on the global
+              stage. Furthermore, he is recognized for his profound expertise as
+              a monitoring and evaluation (M&E) expert, showcasing an
+              unparalleled aptitude for imparting knowledge as a distinguished
+              educator and tutor. In minding the significance of knowledge
+              dissemination and community enrichment, Timothy takes on
+              leadership roles as the coordinator of the Osun R Users Group
+              (Osun RUG), Nigeria, and as the co-founder of Tim-R Programming
+              Consult, Nigeria — two non-profit, non-governmental organizations
+              dedicated to nurturing a thriving community of statisticians and
+              data enthusiasts. His commitment to the advancement of statistical
+              computing techniques is apparent, reflecting his profound passion
+              for driving impactful change and sustainable progress within the
+              statistical and data science domains. With an inherent ability to
+              grasp complex concepts swiftly and a proven aptitude for rapid
+              assimilation, Timothy’s role as a lecturer at the Department of
+              Statistics, Faculty of Basic and Applied Sciences, College of
+              Science, Engineering and Technology (SET) at Osun State
+              University, Osogbo, Nigeria, further underscores his commitment to
+              excellence in education and his dedication to shaping the future
+              generation of statistical and data science practitioners. For
+              collaborative endeavors, inquiries, or professional engagements,
+              Timothy can be reached via the following email addresses: *
+              osunrug@rug.org.ng * timothy.ogunleye@uniosun.edu.ng Timothy A.
+              Ogunleye stands as a pivotal figure in spearheading the
+              advancement of statistical computing and data science and embodies
+              a steadfast commitment to the continual evolution and innovation
+              within these critical domains.
               <Typography
                 display="inline"
                 sx={{
