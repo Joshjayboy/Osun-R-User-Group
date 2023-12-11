@@ -21,9 +21,9 @@ const Header = (props) => {
   const navItems = [
     "Home",
     "About",
-    "Agenda",
-    "Facilitator",
+    "Training and Research",
     "Code of Conduct",
+    "Photo Gallery",
   ];
 
   const { window } = props;
