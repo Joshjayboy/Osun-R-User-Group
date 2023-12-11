@@ -623,91 +623,86 @@ const Home = () => {
               Data Science, Biostatistics, Designs of Experiment, and Applied
               Statistics. His comprehensive expertise encompasses a profound
               understanding of Statistics and Mathematics, establishing him as a
-              respected authority in the field. Armed with a profound knowledge
-              of statistical analysis and computational methods, Timothy is an
-              expert in the R language, complemented by a strong command of SQL
-              and Python programming languages. His dedication to expanding his
-              skills led him to the Department of Computing at Macquarie
-              University, the City of Sydney, Australia, where he received
-              official certification as an R and Python Programmer in the realm
-              of Data Science. These credentials attest to his unwavering
-              commitment to mastering cutting-edge technologies and analytical
-              tools within the data science landscape. Timothy’s educational
-              pursuits initially commenced at the Federal Polytechnic, Ede,
-              Nigeria, where he earned both National Diploma (ND) and Higher
-              National Diploma (HND) certificates in Statistics, laying a solid
-              academic groundwork for his future accomplishments. Notably, he
-              currently serves as the Secretary-General of the International
-              Association for Statistical Computing, African Members Group
-              (IASC-AMG), demonstrating his influential presence in the
-              statistical community on an international level. Boasting over 16
-              years of extensive experience spanning across industries and
-              academia, Timothy has etched a distinguished career journey during
-              which he has contributed significantly to both scholarly and
-              professional domains. His intellectual prowess is reflected in his
-              extensive publication record, comprising numerous academic papers
-              that have made a noteworthy impact both locally and on the global
-              stage. Furthermore, he is recognized for his profound expertise as
-              a monitoring and evaluation (M&E) expert, showcasing an
-              unparalleled aptitude for imparting knowledge as a distinguished
-              educator and tutor. In minding the significance of knowledge
-              dissemination and community enrichment, Timothy takes on
-              leadership roles as the coordinator of the Osun R Users Group
-              (Osun RUG), Nigeria, and as the co-founder of Tim-R Programming
-              Consult, Nigeria — two non-profit, non-governmental organizations
-              dedicated to nurturing a thriving community of statisticians and
-              data enthusiasts. His commitment to the advancement of statistical
-              computing techniques is apparent, reflecting his profound passion
-              for driving impactful change and sustainable progress within the
-              statistical and data science domains. With an inherent ability to
-              grasp complex concepts swiftly and a proven aptitude for rapid
-              assimilation, Timothy’s role as a lecturer at the Department of
-              Statistics, Faculty of Basic and Applied Sciences, College of
-              Science, Engineering and Technology (SET) at Osun State
-              University, Osogbo, Nigeria, further underscores his commitment to
-              excellence in education and his dedication to shaping the future
-              generation of statistical and data science practitioners. For
-              collaborative endeavors, inquiries, or professional engagements,
-              Timothy can be reached via the following email addresses: *
-              osunrug@rug.org.ng * timothy.ogunleye@uniosun.edu.ng Timothy A.
-              Ogunleye stands as a pivotal figure in spearheading the
+              respected authority in the field.
+              <br />
+              <br />
+              Armed with a profound knowledge of statistical analysis and
+              computational methods, Timothy is an expert in the R language,
+              complemented by a strong command of SQL and Python programming
+              languages. His dedication to expanding his skills led him to the
+              Department of Computing at Macquarie University, the City of
+              Sydney, Australia, where he received official certification as an
+              R and Python Programmer in the realm of Data Science. These
+              credentials attest to his unwavering commitment to mastering
+              cutting-edge technologies and analytical tools within the data
+              science landscape.
+              <br />
+              <br />
+              Timothy’s educational pursuits initially commenced at the Federal
+              Polytechnic, Ede, Nigeria, where he earned both National Diploma
+              (ND) and Higher National Diploma (HND) certificates in Statistics,
+              laying a solid academic groundwork for his future accomplishments.
+              Notably, he currently serves as the Secretary-General of the
+              International Association for Statistical Computing, African
+              Members Group (IASC-AMG), demonstrating his influential presence
+              in the statistical community on an international level.
+              <br />
+              <br /> Boasting over 16 years of extensive experience spanning
+              across industries and academia, Timothy has etched a distinguished
+              career journey during which he has contributed significantly to
+              both scholarly and professional domains. His intellectual prowess
+              is reflected in his extensive publication record, comprising
+              numerous academic papers that have made a noteworthy impact both
+              locally and on the global stage. Furthermore, he is recognized for
+              his profound expertise as a monitoring and evaluation (M&E)
+              expert, showcasing an unparalleled aptitude for imparting
+              knowledge as a distinguished educator and tutor.
+              <br />
+              <br /> In minding the significance of knowledge dissemination and
+              community enrichment, Timothy takes on leadership roles as the
+              coordinator of the Osun R Users Group (Osun RUG), Nigeria, and as
+              the co-founder of Tim-R Programming Consult, Nigeria — two
+              non-profit, non-governmental organizations dedicated to nurturing
+              a thriving community of statisticians and data enthusiasts. His
+              commitment to the advancement of statistical computing techniques
+              is apparent, reflecting his profound passion for driving impactful
+              change and sustainable progress within the statistical and data
+              science domains.
+              <br />
+              <br />
+              With an inherent ability to grasp complex concepts swiftly and a
+              proven aptitude for rapid assimilation, Timothy’s role as a
+              lecturer at the Department of Statistics, Faculty of Basic and
+              Applied Sciences, College of Science, Engineering and Technology
+              (SET) at Osun State University, Osogbo, Nigeria, further
+              underscores his commitment to excellence in education and his
+              dedication to shaping the future generation of statistical and
+              data science practitioners.
+              <br />
+              <br /> For collaborative endeavors, inquiries, or professional
+              engagements, Timothy can be reached via the following email
+              addresses:
+              <br />
+              <br /> *<a href="mailto:osunrug@rug.org.ng">osunrug@rug.org.ng</a>
+              <br />
+              <br />*
+              <a href="mailto:timothy.ogunleye@uniosun.edu.ng">
+                timothy.ogunleye@uniosun.edu.ng
+              </a>
+              <br />
+              <br />
+              Timothy A. Ogunleye stands as a pivotal figure in spearheading the
               advancement of statistical computing and data science and embodies
               a steadfast commitment to the continual evolution and innovation
               within these critical domains.
-              <Typography
-                display="inline"
-                sx={{
-                  fontWeight: 900,
-                }}
-              >
-                He will be available in Nigeria to take some courses during the
-                workshop.
-              </Typography>
+              <br />
+              <br />
             </Typography>
           </Box>
-          {/* <Typography sx={{ lineHeight: "35px", letterSpacing: "1px" }}>
-            We invite researchers, students, industry professionals, and data
-            enthusiasts to become part of our vibrant community. By joining
-            forces with the Center for Computational Statistics and Data
-            Science, you gain access to valuable resources, workshops, and
-            networking opportunities aimed at expanding your expertise and
-            contributing to the advancement of statistical research and data
-            science. Explore our website to discover upcoming events, research
-            highlights, training opportunities, and resources that are shaping
-            the future of computational statistics and data science. We look
-            forward to collaborating with you as we contribute to the
-            transformative possibilities of data-driven research and education.
-            Please, email us at link.
-            {/* {Use this mail to produce the link above: osunrug@gmail.com } */}
-          {/* </Typography>  */}
         </Box>
 
         <Box sx={{ mt: "10%" }}></Box>
         <hr />
-
-        {/* about  */}
-
-        {/* end of about */}
 
         {/* <Box
           sx={{

@@ -282,7 +282,7 @@ const Code = () => {
             fontSize: "20px",
           }}
         >
-          Our Sponsors
+          Our Partners
         </Box>
         <Companies />
       </Box>
