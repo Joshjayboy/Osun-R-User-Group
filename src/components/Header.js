@@ -44,7 +44,7 @@ const Header = (props) => {
           <img
             width="50px"
             alt="pic"
-            src="https://res.cloudinary.com/pro-solve/image/upload/v1702271104/osun_iapnes.jpg"
+            src="https://res.cloudinary.com/pro-solve/image/upload/v1702274970/osun_png_carsjb.png"
           />
         </Box>
       </Typography>
