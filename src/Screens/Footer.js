@@ -50,7 +50,7 @@ const Footer = () => {
         sx={{ display: "flex", bgcolor: "#fff5f8" }}
       >
         <Container sx={{ my: 8, display: "flex" }}>
-          <Grid container spacing={5}>
+          {/* <Grid container spacing={5}>
             <Grid item xs={6} sm={4} md={3}>
               <Grid
                 container
@@ -113,72 +113,13 @@ const Footer = () => {
                 ))}
               </TextField>
             </Grid>
-          </Grid>
+          </Grid> */}
+          Address: Room 203, CHS Intercollegiate Building, Department of
+          Statistics, Faculty of Pure and Applied Sciences, College of Science,
+          Engineering and Technology, Osun State University, Osogbo, Nigeria.
+          Contact: osunrug@rug.org.ng
         </Container>
       </Typography>
-      <Grid
-        item
-        sx={{
-          textAlign: "center",
-          bgcolor: "#fff5f8",
-        }}
-      >
-        <Typography
-          variant="caption"
-          component={Link}
-          href="https://www.google.com/maps/search/Adeoye+Street,+Off+Deeper+Life+Bible+Church,+Soluyi,+Gbagada,+Lagos+State,+Nigeria/@7.1742621,3.4378525,9z/data=!3m1!4b1?entry=ttu"
-        >
-          Adeoye Street, Off Deeper Life Bible Church, Soluyi, Gbagada, Lagos
-          State, Nigeria
-        </Typography>
-        <Box>
-          <Typography variant="caption">
-            {"Email  "}
-            <Link
-              href="mailto:    info@tim-rprogramming.com?subject=Feedback &body=Thank you for your feedback, I will like to ..."
-              rel="sponsored"
-              title="AI DIGITAL AGENCY"
-            >
-              info@tim-rprogramming.com
-            </Link>
-            {" ; "}
-            <Link
-              href="mailto:   osunrug@mail.com?subject=Feedback &body=Thank you for your feedback, I will like to ..."
-              rel="sponsored"
-              title="AI DIGITAL AGENCY"
-            >
-              osunrug@mail.com
-            </Link>
-            {" ; "}
-
-            <Link
-              href="mailto:  thompsondx@gmail.com?subject=Feedback &body=Thank you for your feedback, I will like to ..."
-              title="Creative Commons BY 3.0"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              thompsondx@gmail.com
-            </Link>
-          </Typography>
-        </Box>
-        <Typography variant="caption">
-          {"Promoting the use of  "}
-          <Link
-            href="https://www.r-project.org/"
-            rel="sponsored"
-            title="AI DIGITAL AGENCY"
-          >
-            R
-          </Link>
-          {" and "}
-          <Link href="https://www.python.org/" rel="sponsored" title="Flaticon">
-            Python Languages
-          </Link>
-          {
-            " to solve statistical and mathematically-inclined problems arising from industry and academia"
-          }
-        </Typography>
-      </Grid>
     </>
   );
 };

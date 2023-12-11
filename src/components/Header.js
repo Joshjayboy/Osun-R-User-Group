@@ -89,7 +89,7 @@ const Header = (props) => {
     } else if (item === "Facilitator") {
       navigate("/facilitate");
     } else if (item === "Code of Conduct") {
-      navigate("/code");
+      navigate("/codeofconduct");
     } else if (item === "Home") {
       navigate("/");
     }
