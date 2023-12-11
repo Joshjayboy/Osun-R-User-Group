@@ -84,10 +84,10 @@ const Header = (props) => {
 
     if (item === "About") {
       navigate("/about");
-    } else if (item === "Agenda") {
-      navigate("/agenda");
-    } else if (item === "Facilitator") {
-      navigate("/facilitate");
+    } else if (item === "Training and Research") {
+      navigate("/training");
+    } else if (item === "Photo Gallery") {
+      navigate("/photos");
     } else if (item === "Code of Conduct") {
       navigate("/codeofconduct");
     } else if (item === "Home") {

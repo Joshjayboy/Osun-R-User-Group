@@ -273,7 +273,17 @@ const Code = () => {
             of our research and training group - Osun RUG.
           </Box>
         </Box>
-
+        <Box
+          sx={{
+            mt: 7,
+            mb: 7,
+            textAlign: "center",
+            color: "#0066FF",
+            fontSize: "20px",
+          }}
+        >
+          Our Sponsors
+        </Box>
         <Companies />
       </Box>
       <Footer />

@@ -5,89 +5,95 @@ import {
   BsCaretLeftFill,
   BsCaretRightFill,
 } from "react-icons/bs";
+import "swiper/css";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Autoplay, Navigation } from "swiper";
+// import { Autoplay } from "swiper";
+
+// import required modules
+import { Autoplay, Pagination, Navigation } from "swiper/modules";
+
 import { FaHeart } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import Data from "./Data";
-// import Rating from "../Stars";
-// import Loader from "../Notifications/Loader";
-// import { Empty } from "../Notifications/Empty";
-// import { useSelector, useDispatch } from "react-redux";
-// import { IfMovieLiked, LikeMovie } from "../../Context/Functionalities";
+import "swiper/css/effect-coverflow";
+import "swiper/css/pagination";
+import "swiper/css/navigation";
+import "swiper/css/autoplay";
+
+import { EffectCoverflow } from "swiper";
 
 const SwiperTop = ({ prevEl, nextEl, movies }) => {
-  //   const { isLoading } = useSelector((state) => state.userLikeMovie);
-  //   const dispatch = useDispatch();
-  //   const { userInfo } = useSelector((state) => state.userLogin);
-
-  // if liked function
-  //   const isLiked = (movie) => {
-  //     return;
-  //     IfMovieLiked(movie);
-  //   };
-
   return (
     <Swiper
-      // navigation={{ nextEl, prevEl }}
-      slidesPerView={4}
+      slidesPerView={3}
       autoplay={true}
       speed={1000}
       loop={true}
-    //  modules={[Navigation, Autoplay]}
-      breakpoints={{
-        0: {
-          slidesPreView: 1,
-          spaceBetween: 10,
-        },
-
-        768: {
-          slidesPreView: 2,
-          spaceBetween: 20,
-        },
-        1024: {
-          slidesPreView: 3,
-          spaceBetween: 30,
-        },
-        1280: {
-          slidesPreView: 4,
-          spaceBetween: 40,
-        },
+      effect={"coverflow"}
+      grabCursor={true}
+      centeredSlides={true}
+      coverflowEffect={{
+        rotate: 0,
+        stretch: 0,
+        depth: 100,
+        modifier: 2.5,
       }}
+      pagination={{ el: ".swiper-pagination", clickable: true }}
+      modules={[Autoplay]}
+      className="swiper_container"
     >
-      {Data?.map((movie, index) => (
-        <SwiperSlide key={index}>
-          <div className="p-4 h-rate hovered border border-border bg-text rounded-lg overflow-hidden">
-            <img
-              //   src={movie?.titleImage ? movie.titleImage : "/images/user.png"}
+      <SwiperSlide>
+        <img
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280966/Picture1_bgoqrv.jpg"
+          alt="slide_image"
+        />
+      </SwiperSlide>
+      <SwiperSlide>
+        <img
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280967/Picture2_fsyfb8.jpg"
+          alt="slide_image"
+        />
+      </SwiperSlide>
+      <SwiperSlide>
+        <img
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280970/Picture3_l652ry.jpg"
+          alt="slide_image"
+        />
+      </SwiperSlide>
+      <SwiperSlide>
+        <img
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280972/Picture4_lvhbxs.jpg"
+          alt="slide_image"
+        />
+      </SwiperSlide>
+      <SwiperSlide>
+        <img
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280974/Picture5_njv7hq.png"
+          alt="slide_image"
+        />
+      </SwiperSlide>
+      <SwiperSlide>
+        <img
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280976/Picture6_c7z40l.jpg"
+          alt="slide_image"
+        />
+      </SwiperSlide>
+      <SwiperSlide>
+        <img
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280978/Picture7_ippmh1.jpg"
+          alt="slide_image"
+        />
+      </SwiperSlide>
 
-              src={movie?.picture}
-              alt="this"
-              // className="w-full h-full object-cover rounded-lg"
-            />
-            <div className="px-4 hoveres gap-6 text-center absolute bg-black bg-opacity-70 top-0 left-0 right-0 bottom-0">
-              <button
-              // onClick={() => LikeMovie(movie, dispatch, userInfo)}
-              // disabled={isLiked(movie) || isLoading}
-              // className={`w-12 h-12 flex-colo transitions hover:bg-subMain rounded-full
-              // ${isLiked(movie) ? "bg-subMain" : "bg-white bg-opacity-30"}
-              //  text-white`}
-              >
-                <FaHeart className="text-success" />
-              </button>
-              <Link
-                className="text-white font-semibold text-xl trancuted line-clamp-2"
-                to={`/movie/${movie?._id}`}
-              >
-                {movie?.name}
-              </Link>
-              <div className="flex gap-2 text-star">
-                {/* <Rating value={movie?.rate} /> */}
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-      ))}
+      {/* <div className="slider-controler">
+        <div className="swiper-button-prev slider-arrow">
+          <ion-icon name="arrow-back-outline"></ion-icon>
+        </div>
+        <div className="swiper-button-next slider-arrow">
+          <ion-icon name="arrow-forward-outline"></ion-icon>
+        </div>
+        <div className="swiper-pagination"></div>
+      </div> */}
     </Swiper>
   );
 };

@@ -48,7 +48,7 @@ const About = () => {
       <div style={{ position: "relative", overflow: "hidden" }}>
         <Zoom scale={0.4}>
           {images.map((each, index) => (
-            <img key={index} style={{ width: "100%" }} src={each} />
+            <img key={index} style={{ width: "100%" }} src={each} alt="this" />
           ))}
         </Zoom>
       </div>
@@ -130,6 +130,7 @@ const About = () => {
               color: "#0066FF",
               fontSize: "20px",
               mb: 2,
+              mt: 8,
             }}
           >
             Our Expertise
