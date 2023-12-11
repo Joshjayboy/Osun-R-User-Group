@@ -16,6 +16,7 @@ import Paper from "@mui/material/Paper";
 import Grid from "@mui/material/Grid";
 import { TextField } from "@mui/material/TextField";
 import Companies from "../components/Companies";
+import PhotosSlide from "../components/Photos";
 
 const Photos = () => {
   return (
@@ -344,6 +345,7 @@ const Photos = () => {
               />
             </div>
           </Grid>
+          <PhotosSlide />
           <Grid itemxs={12} md={4}>
             <img
               alt="this"
