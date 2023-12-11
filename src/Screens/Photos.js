@@ -26,7 +26,7 @@ const Photos = () => {
     textAlign: "center",
     color: theme.palette.text.secondary,
   }));
- 
+
   return (
     <>
       <Header />
@@ -335,6 +335,96 @@ const Photos = () => {
                 />
               </Item>
             </Grid>
+            {/* <Grid item xs={8}>
+              <Item>
+                <img
+                  style={{ maxWidth: "100%" }}
+                  alt="pic"
+                  src="https://res.cloudinary.com/pro-solve/image/upload/v1690678511/pic8_kctlx7.png"
+                />
+              </Item>
+            </Grid> */}
+            <Grid item xs={8}>
+              <Item>
+                <img
+                  style={{ maxWidth: "100%" }}
+                  alt="pic"
+                  src="https://res.cloudinary.com/pro-solve/image/upload/v1702324110/Picture7_epjja5.jpg"
+                />
+              </Item>
+            </Grid>
+            <Grid item xs={8}>
+              <Item>
+                <img
+                  style={{ maxWidth: "100%" }}
+                  alt="pic"
+                  src="https://res.cloudinary.com/pro-solve/image/upload/v1702324113/Picture2_-_Copy_psekki.jpg"
+                />
+              </Item>
+            </Grid>
+            <Grid item xs={8}>
+              <Item>
+                <img
+                  style={{ maxWidth: "100%" }}
+                  alt="pic"
+                  src="https://res.cloudinary.com/pro-solve/image/upload/v1702324114/Picture11_xkd6hm.jpg"
+                />
+              </Item>
+            </Grid>
+            <Grid item xs={8}>
+              <Item>
+                <img
+                  style={{ maxWidth: "100%" }}
+                  alt="pic"
+                  src="https://res.cloudinary.com/pro-solve/image/upload/v1702324114/Picture3_-_Copy_ommhse.jpg"
+                />
+              </Item>
+            </Grid>
+            <Grid item xs={8}>
+              <Item>
+                <img
+                  style={{ maxWidth: "100%" }}
+                  alt="pic"
+                  src="https://res.cloudinary.com/pro-solve/image/upload/v1702324114/Picture12_axxrsy.jpg"
+                />
+              </Item>
+            </Grid>
+            <Grid item xs={8}>
+              <Item>
+                <img
+                  style={{ maxWidth: "100%" }}
+                  alt="pic"
+                  src="https://res.cloudinary.com/pro-solve/image/upload/v1702324115/Picture5_-_Copy_hzbb2x.jpg"
+                />
+              </Item>
+            </Grid>
+            <Grid item xs={8}>
+              <Item>
+                <img
+                  style={{ maxWidth: "100%" }}
+                  alt="pic"
+                  src="https://res.cloudinary.com/pro-solve/image/upload/v1702324115/Picture4_-_Copy_prv1wy.jpg"
+                />
+              </Item>
+            </Grid>
+            <Grid item xs={8}>
+              <Item>
+                <img
+                  style={{ maxWidth: "100%" }}
+                  alt="pic"
+                  src="https://res.cloudinary.com/pro-solve/image/upload/v1702324115/Picture4_-_Copy_prv1wy.jpghttps://res.cloudinary.com/pro-solve/image/upload/v1702324116/Picture8_-_Copy_xmtzye.jpg"
+                />
+              </Item>
+            </Grid>
+            <Grid item xs={8}>
+              <Item>
+                <img
+                  style={{ maxWidth: "100%" }}
+                  alt="pic"
+                  src="https://res.cloudinary.com/pro-solve/image/upload/v1702324116/Picture9_-_Copy_zl9hfo.jpg"
+                />
+              </Item>
+            </Grid>
           </Grid>
         </Box>
       </Box>
@@ -423,7 +513,7 @@ const Photos = () => {
           <Grid item xs={12} md={4}>
             <img
               alt="this"
-              src="https://res.cloudinary.com/pro-solve/image/upload/v1702324116/Picture8_-_Copy_xmtzye.jpg"
+              src="https://res.cloudinary.com/pro-solve/image/upload/v1702324115/Picture4_-_Copy_prv1wy.jpghttps://res.cloudinary.com/pro-solve/image/upload/v1702324116/Picture8_-_Copy_xmtzye.jpg"
             />
           </Grid>
           <Grid item xs={12} md={4}>
