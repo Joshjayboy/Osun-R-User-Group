@@ -434,6 +434,173 @@ const About = () => {
             </Typography>
           </Box>
         </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329284/Picture4_delfkn.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Prof. Dawud Adebayo AGUNBIADE
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Adebayo Agunbiade currently works at the Department of
+              Mathematical Sciences, Olabisi Onabanjo University, Ago-Iwoye,
+              Nigeria. Agunbiade does research in Computational Statistics,
+              Simultaneous Equation Modelling and Econometric Methods. The
+              current project is on 'Violation of Basic Assumptions of MLR -
+              Multicollinearity and Heteroscedasticity' & 'Using INGARCH Process
+              to Model Cases of COVID-19'. He has passion for academic business
+              and has produced over 5 Doctoral graduates.
+              <br />
+              <br /> Prof. Bayo Agunbiade is a Statistician and Data Analysis
+              specialist. He parades two M. Sc degrees in Statistics and
+              Information Science as well as a Ph.D. in Statistics from the
+              University of Ibadan. His experience was obtained from the
+              Association for Reproductive and Family Health (ARFH) Ibadan;
+              Executive Finance and Investments Ltd. (EFIL), Ibadan and Rasmed
+              groups, Ibadan. He has put in some years of rigorous teaching and
+              research at the university levels. He has many articles in
+              reputable journals and co-authored some published books. He has
+              attended so many conferences and workshops both locally and abroad
+              to update his knowledge in which he has presented some of his
+              works. He was responsible for organizing seminars, giving lectures
+              at many functions and coordinating projects within and outside the
+              university levels. He has participated in the data collection,
+              analysis and IEC project on women empowerment of a frontline NGO
+              based in Ibadan, Nigeria. He has demonstrable skills in
+              coordination, data analysis, teaching & research as well as people
+              management. He is a Professor of Statistics at the Department of
+              Mathematical Sciences, Olabisi Onabanjo University, Ago-Iwoye,
+              Nigeria and his research activities are mainly in Statistical
+              Modeling/Inference, Probability Theory, Computational Statistics,
+              Econometric Methods, Regression Analysis and Stochastic Process.
+              He is a member of the Nigeria Statistical Association (NSA),
+              American Statistical Association (ASA), and the American
+              Mathematical Society (AMS).
+              <br />
+              <br /> He could be reached through:
+              adebayo.agunbiade@oouagoiwoye.edu.ng .
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329279/Picture5_hvosit.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Uche Victor NKUDU
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Uche Victor NKUDU, a data scientist per excellence, loves
+              connecting with people in a learning context and mentoring
+              students and enjoys team teaching, he worked on designing
+              mathematical tasks that nurture students' problem solving and
+              mathematical reasoning capacities. He is a practising Data
+              Scientist, financial engineer, mathematician and a statistician
+              and to crown it all, a lover of education. He is a certified R
+              programmer. He has over 18 years of practicing mathematics from
+              simple to complex levels. He received an HND in Statistics from
+              Yaba College of Technology and B.Sc. (Ed.) in Mathematics and
+              M.Sc. in Pure Mathematics from University of Lagos, and M.Sc.
+              degree in Financial Engineering from World Quant University, USA.
+              He handles the following set of software tools: R syntax, SPSS,
+              AMOS, EVIEW, MINITAB, QSB+, TORA, Python, STATA, SAS, SHAZAM,
+              OXMETRIC, MATLAB, SAGE, MATHEMATICA, SQL, Power Bi, and TABLEAU.
+              He is very versatile in programming. Currently, Victor is the
+              Executive Director of Tim-R Programming Consult, Nigeria.
+              <br />
+              <br />
+              He could be reached through: nkudu4luv@gmail.com
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
       </Box>
       <Footer />
     </>
