@@ -154,6 +154,286 @@ const About = () => {
             extra-miles in achieving solutions to ICT-inclined problems.
           </Typography>
         </Box>
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          >
+            Our Key Members
+          </Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329285/Picture1_mapikh.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Prof. Adebowale Olusola ADEJUMO
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Prof. A.O. ADEJUMO, a seasoned administrator and academician,
+              hails from Igboora in Oyo State of Nigeria. He is a Professor of
+              Statistics and former Head of Department of Statistics, University
+              of Ilorin, Nigeria. He holds both Bachelor of Science (B.Sc.) and
+              Master of Science (M.Sc.) degrees in Statistics from the better by
+              far University of Ilorin, Ilorin, Nigeria and Doctor of Philosophy
+              (PhD) degree in Statistics from Ludwig Maximilians University,
+              Munich, Germany. His areas of specialization are Statistical
+              Modelling, Biostatistics, Time Series and Categorical Data
+              Analysis. He has over 70 publications in academic journals both
+              locally and internationally and, has supervised over thirty master
+              and six PhD students in total.
+              <br />
+              <br />
+              He has served as technical editor and reviewer to so many journal
+              outlets. He has attended many conferences both locally and
+              internationally and even presented some papers. He is a member of
+              some notable academic associations like Nigerian Statistical
+              Association (NSA), Science Association of Nigeria, International
+              Biometric Society (IBS), European Centre for Research Training and
+              Development, UK, Nigerian Association of Mathematical Physics
+              (NAMP), to mention but a few. He could be reached through
+              aodejumo@unilorin.edu.ng. He has served in various capacities to
+              so many non-governmental organizations and academic institutes. He
+              is very passionate and highly accommodating. His profile could be
+              checked here:
+              <br />
+              <br />
+              <a href="https://ng.linkedin.com/in/adebowale-adejumo-78a635127">
+                https://ng.linkedin.com/in/adebowale-adejumo-78a635127
+              </a>
+              <br />
+              <br />
+              <a
+                href="  https://www.researchgate.net/profile/Adebowale_Olusola_Adejumo
+       "
+              >
+                https://www.researchgate.net/profile/Adebowale_Olusola_Adejumo
+              </a>
+              <br />
+              <br />
+              <a href="  https://orcid.org/0000-0002-3127-1685 ">
+                https://orcid.org/0000-0002-3127-1685
+              </a>
+              <br />
+              <br />
+              <a
+                href="  https://www.mendeley.com/profiles/adebowale-adejumo//#profile-publications.
+           "
+              >
+                https://www.mendeley.com/profiles/adebowale-adejumo//#profile-publications.
+              </a>
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329285/Picture2_mtdszh.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Prof. Gafar Matanmi OYEYEMI
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              G.M. Oyeyemi is a Professor of Statistics, Physical Science
+              Faculty, University of Ilorin, Nigeria. He had his higher
+              education at University of Ilorin, where he obtained his
+              Bachelor’s degree in Statistics in 1998 with second Class Upper
+              Division. His passion for teaching and intellectual enquiries
+              propelled him to further his education at the same University and
+              had his Master’s and later Ph.D degrees in Statistics in 2003 and
+              2009 respectively. He has successfully supervised numerous B.Sc.,
+              M.Sc., M.Phil. and Ph.D. students and had many scholarly
+              presentations and publications spanning local, national and
+              international journal outlets. Prof. Oyeyemi specializes in Data
+              Science, Multivariate Analysis and its Applications. Prof. Oyeyemi
+              has held several posts and served in various committees at
+              Department, Faculty and University levels. He has also served as
+              committee organizing member for the 1st Virtual International
+              Conference of the Faculty of Science, University of Ilorin during
+              the covid year. He is currently the Head, Department of
+              Statistics. Prof Oyeyemi is a member of many Academic Societies
+              such as Nigerian Statistical Association (NSA), Science
+              Association of Nigeria (SAN), International Biometrics Society
+              (IBS) and International Association of Statistical Computing
+              (IASC) among others. He could be reached through:
+              gmoyeyemi@yahoo.com
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          ></Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702329286/Picture3_vdbl1b.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Prof. Timothy Olabisi OLATAYO
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Timothy O. OLATAYO is a Professor of Statistics specializing in
+              time series econometrics. He holds a Diploma in Computer Science
+              from the University of Ibadan Training Centre, Ibadan, Nigeria in
+              the year 1998. In the year 1995, he had his first degree from the
+              University of Ilorin, Ilorin, Nigeria in Statistics Department. He
+              later proceeded to University of Ibadan, Nigeria to earn second
+              and third degrees (Statistics) in the years 2000 and 2010
+              respectively. Asides these, he also holds Masters in Information
+              Technology from Obafemi Awolowo University, Ile-Ife, Nigeria in
+              the year 2016.
+              <br />
+              <br />
+              Currently, he’s a Professor of Statistics at the Department of
+              Mathematical Sciences, Olabisi Onabanjo University, Ago-Iwoye,
+              Nigeria. He is a fellow member of Royal Statistical Society
+              (FRSS), London. Prof. Olatayo has more than 22 years of research
+              and teaching experiences at the university level. He has graduated
+              quite a number of students in all levels of degree including PhD,
+              Masters, and B.Sc.
+              <br />
+              <br /> In short, he was once an acting head of department of
+              Mathematical Sciences between 2016 and 2018. He is a member of
+              some notable academic associations like Nigerian Statistical
+              Association (NSA), Mathematical Association of Nigeria (MAN),
+              American Association of Nigeria (AMA), International Biometric
+              Society (IBS), Royal Statistical Society (RSS), Nigerian
+              Association of Mathematical Physics (NAMP), Professional
+              Statistician Society of Nigeria (PSSN), Nigerian Mathematical
+              Association (NMA), to mention but a few. He has served as
+              technical editor and reviewer to so many journal outlets.
+              <br />
+              <br />
+              Has has written a notable number of books and book chapters
+              including journal articles. He has attended many conferences both
+              locally and internationally and even presented some papers. His
+              area of research has contributed greatly to academia.
+              <br />
+              <br />
+              He could be reached through: bisi.olatayo@oouagoiwoye.edu.ng
+              <br />
+              <br />
+            </Typography>
+          </Box>
+        </Box>
       </Box>
       <Footer />
     </>

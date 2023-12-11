@@ -25,6 +25,7 @@ import { EffectCoverflow } from "swiper";
 const SwiperTop = ({ prevEl, nextEl, movies }) => {
   return (
     <Swiper
+      spaceBetween={15}
       slidesPerView={3}
       autoplay={true}
       speed={1000}
@@ -41,46 +42,55 @@ const SwiperTop = ({ prevEl, nextEl, movies }) => {
       pagination={{ el: ".swiper-pagination", clickable: true }}
       modules={[Autoplay]}
       className="swiper_container"
+      sx={{
+        ml: 4,
+        mr: 4,
+      }}
     >
-      <SwiperSlide>
+      <SwiperSlide
+        sx={{
+          ml: 4,
+          mr: 4,
+        }}
+      >
         <img
-          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280966/Picture1_bgoqrv.jpg"
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702324113/Picture2_-_Copy_psekki.jpg"
           alt="slide_image"
         />
       </SwiperSlide>
       <SwiperSlide>
         <img
-          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280967/Picture2_fsyfb8.jpg"
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702324114/Picture11_xkd6hm.jpg"
           alt="slide_image"
         />
       </SwiperSlide>
       <SwiperSlide>
         <img
-          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280970/Picture3_l652ry.jpg"
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702324114/Picture3_-_Copy_ommhse.jpg"
           alt="slide_image"
         />
       </SwiperSlide>
       <SwiperSlide>
         <img
-          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280972/Picture4_lvhbxs.jpg"
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702324114/Picture12_axxrsy.jpg"
           alt="slide_image"
         />
       </SwiperSlide>
       <SwiperSlide>
         <img
-          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280974/Picture5_njv7hq.png"
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702324115/Picture5_-_Copy_hzbb2x.jpg"
           alt="slide_image"
         />
       </SwiperSlide>
       <SwiperSlide>
         <img
-          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280976/Picture6_c7z40l.jpg"
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702324115/Picture4_-_Copy_prv1wy.jpg"
           alt="slide_image"
         />
       </SwiperSlide>
       <SwiperSlide>
         <img
-          src="https://res.cloudinary.com/pro-solve/image/upload/v1702280978/Picture7_ippmh1.jpg"
+          src="https://res.cloudinary.com/pro-solve/image/upload/v1702324116/Picture8_-_Copy_xmtzye.jpg"
           alt="slide_image"
         />
       </SwiperSlide>
@@ -97,7 +107,7 @@ const SwiperTop = ({ prevEl, nextEl, movies }) => {
     </Swiper>
   );
 };
-const Photos = ({ movies, isLoading }) => {
+const PhotosSlide = ({ movies, isLoading }) => {
   const [nextEl, setNextEl] = useState(null);
   const [prevEl, setPrevtEl] = useState(null);
   const className =
@@ -131,4 +141,4 @@ const Photos = ({ movies, isLoading }) => {
   );
 };
 
-export default Photos;
+export default PhotosSlide;

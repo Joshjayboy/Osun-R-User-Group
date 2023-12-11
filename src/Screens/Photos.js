@@ -302,6 +302,8 @@ const Photos = () => {
         </Box>
       </Box>
 
+      <PhotosSlide />
+
       <Box sx={{ flexGrow: 1 }}>
         <Grid container spacing={2}>
           <Grid item xs={12} md={4}>
@@ -345,7 +347,7 @@ const Photos = () => {
               />
             </div>
           </Grid>
-          <PhotosSlide />
+       
           <Grid itemxs={12} md={4}>
             <img
               alt="this"
