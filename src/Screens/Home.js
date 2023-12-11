@@ -30,6 +30,7 @@ import KeyboardArrowRightIcon from "@mui/icons-material/KeyboardArrowRight";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import { Slide } from "react-slideshow-image";
 import "react-slideshow-image/dist/styles.css";
+import Facilitate from "./Facilitate";
 const Home = () => {
   const imageURL =
     "https://cdn.pixabay.com/photo/2023/05/20/20/39/european-roller-8007340__340.jpg";
@@ -543,6 +544,193 @@ const Home = () => {
             Please, email us at link.
             {/* {Use this mail to produce the link above: osunrug@gmail.com } */}
           </Typography>
+        </Box>
+        {/* <Facilitate /> */}
+        {/* <Box
+          sx={{
+            mt: 5,
+          }}
+        >
+          <Box
+            sx={{
+              textAlign: "left",
+            }}
+          >
+            <img alt="Timothy" src="./images/fresh.png" />
+          </Box>
+
+          <Typography
+            sx={{
+              textAlign: "left",
+              mt: 5,
+              color: "#0066FF",
+              fontWeight: 900,
+              lineHeight: "35px",
+              letterSpacing: "1px",
+            }}
+          >
+            Prof. Longe Olumide BABATOPE
+          </Typography>
+          <Typography
+            align="justify"
+            sx={{
+              mt: 2,
+              lineHeight: "35px",
+              letterSpacing: "1px",
+            }}
+          >
+            Professor Longe Olumide Babatope (MIEE. MNCS, MISOC, MirLab, MIEE,
+            MACM, MISACA, FASI, FSMART) holds a PhD degree in Computer Science
+            (Information Systems Security Specialization) from the University of
+            Benin, Benin City, Nigeria. A recipient of several international
+            awards, he is an alumnus UI-MacArthur Scholar and an alumnus MIT
+            Scholar. He was also a recipient of the prestigious Fulbright SIR
+            Fellowship as well as the highly coveted Heidelberg Nobel Laureate
+            Forum Fellowship in Germany. He is an endowed Professor of
+            Information Systems & Cyber Security Education with the ICT
+            University Foundation USA, A Senior Member of the prestigious
+            Institute of Electrical and Electronics Engineers (IEEE), he is
+            Seasoned in conceiving management information systems theories
+            (evidenced by scholastic publications), and initiatives in ICT
+            diffusion, innovation and uptake. Prof. Longe’s research works on
+            cyber security and allied domains are very highly cited and has
+            supported innovative developments globally earning him recognitions
+            as a pioneering scholar in understanding cyber security causation,
+            apprehension and treatments. He has served in several universities
+            in the capacity of Head of Department, Dean, Director and Member of
+            Governing Council. He has supervised and examined several PhDs as
+            well as Masters and undergraduates in their numbers. He is an
+            external examiner and international collaborator to several
+            Universities globally. He has been named by Microsoft research as
+            one of the leading experts on privacy and information systems
+            research. He is on the Editorial Board of several multiple highly
+            rated international Journals and his works have been cited and
+            quoted several thousand times. Professor Longe Olumide is also known
+            for his mentoring skills and dynamism as well as his selfless
+            approach to grooming the younger generation. He is currently the
+            Dean of the Faculty of Computational Sciences & Informatics,
+            Academic City University College, Accra, Ghana.{" "}
+            <Typography
+              display="inline"
+              sx={{
+                fontWeight: 900,
+              }}
+            >
+              He will be available in Nigeria to take some courses during the
+              workshop.
+            </Typography>
+          </Typography>
+        </Box> */}
+
+        <Box
+          align="justify"
+          sx={{
+            mt: 4,
+          }}
+        >
+          <Typography
+            sx={{
+              color: "#0066FF",
+              fontSize: "20px",
+              mb: 2,
+            }}
+          >
+            Coordinator and Convener
+          </Typography>
+          <Box
+            sx={{
+              mt: 5,
+            }}
+          >
+            <Box
+              sx={{
+                textAlign: "left",
+              }}
+            >
+              <img
+                alt="Timothy"
+                src="https://res.cloudinary.com/pro-solve/image/upload/v1702273475/Picture2_pnegkd.jpg"
+              />
+            </Box>
+
+            <Typography
+              sx={{
+                textAlign: "left",
+                mt: 5,
+                color: "#0066FF",
+                fontWeight: 900,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Timothy A. Ogunleye: A Visionary Statistician and Data Scientist
+            </Typography>
+            <Typography
+              align="justify"
+              sx={{
+                mt: 2,
+                lineHeight: "35px",
+                letterSpacing: "1px",
+              }}
+            >
+              Professor Longe Olumide Babatope (MIEE. MNCS, MISOC, MirLab, MIEE,
+              MACM, MISACA, FASI, FSMART) holds a PhD degree in Computer Science
+              (Information Systems Security Specialization) from the University
+              of Benin, Benin City, Nigeria. A recipient of several
+              international awards, he is an alumnus UI-MacArthur Scholar and an
+              alumnus MIT Scholar. He was also a recipient of the prestigious
+              Fulbright SIR Fellowship as well as the highly coveted Heidelberg
+              Nobel Laureate Forum Fellowship in Germany. He is an endowed
+              Professor of Information Systems & Cyber Security Education with
+              the ICT University Foundation USA, A Senior Member of the
+              prestigious Institute of Electrical and Electronics Engineers
+              (IEEE), he is Seasoned in conceiving management information
+              systems theories (evidenced by scholastic publications), and
+              initiatives in ICT diffusion, innovation and uptake. Prof. Longe’s
+              research works on cyber security and allied domains are very
+              highly cited and has supported innovative developments globally
+              earning him recognitions as a pioneering scholar in understanding
+              cyber security causation, apprehension and treatments. He has
+              served in several universities in the capacity of Head of
+              Department, Dean, Director and Member of Governing Council. He has
+              supervised and examined several PhDs as well as Masters and
+              undergraduates in their numbers. He is an external examiner and
+              international collaborator to several Universities globally. He
+              has been named by Microsoft research as one of the leading experts
+              on privacy and information systems research. He is on the
+              Editorial Board of several multiple highly rated international
+              Journals and his works have been cited and quoted several thousand
+              times. Professor Longe Olumide is also known for his mentoring
+              skills and dynamism as well as his selfless approach to grooming
+              the younger generation. He is currently the Dean of the Faculty of
+              Computational Sciences & Informatics, Academic City University
+              College, Accra, Ghana.{" "}
+              <Typography
+                display="inline"
+                sx={{
+                  fontWeight: 900,
+                }}
+              >
+                He will be available in Nigeria to take some courses during the
+                workshop.
+              </Typography>
+            </Typography>
+          </Box>
+          {/* <Typography sx={{ lineHeight: "35px", letterSpacing: "1px" }}>
+            We invite researchers, students, industry professionals, and data
+            enthusiasts to become part of our vibrant community. By joining
+            forces with the Center for Computational Statistics and Data
+            Science, you gain access to valuable resources, workshops, and
+            networking opportunities aimed at expanding your expertise and
+            contributing to the advancement of statistical research and data
+            science. Explore our website to discover upcoming events, research
+            highlights, training opportunities, and resources that are shaping
+            the future of computational statistics and data science. We look
+            forward to collaborating with you as we contribute to the
+            transformative possibilities of data-driven research and education.
+            Please, email us at link.
+            {/* {Use this mail to produce the link above: osunrug@gmail.com } */}
+          {/* </Typography>  */}
         </Box>
 
         <Box sx={{ mt: "10%" }}></Box>
