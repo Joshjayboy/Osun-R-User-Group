@@ -334,7 +334,7 @@ const About = () => {
               Association of Nigeria (SAN), International Biometrics Society
               (IBS) and International Association of Statistical Computing
               (IASC) among others. He could be reached through:
-              gmoyeyemi@yahoo.com
+              <a href="mailto: gmoyeyemi@yahoo.com"> gmoyeyemi@yahoo.com</a>
               <br />
               <br />
             </Typography>
@@ -428,7 +428,10 @@ const About = () => {
               area of research has contributed greatly to academia.
               <br />
               <br />
-              He could be reached through: bisi.olatayo@oouagoiwoye.edu.ng
+              He could be reached through:
+              <a href="mailto: bisi.olatayo@oouagoiwoye.edu.ng">
+                bisi.olatayo@oouagoiwoye.edu.ng
+              </a>
               <br />
               <br />
             </Typography>
@@ -520,7 +523,11 @@ const About = () => {
               Mathematical Society (AMS).
               <br />
               <br /> He could be reached through:
-              adebayo.agunbiade@oouagoiwoye.edu.ng .
+              <a href="mailto:  adebayo.agunbiade@oouagoiwoye.edu.ng">
+                {" "}
+                adebayo.agunbiade@oouagoiwoye.edu.ng
+              </a>
+              .
               <br />
               <br />
             </Typography>
@@ -595,7 +602,8 @@ const About = () => {
               Executive Director of Tim-R Programming Consult, Nigeria.
               <br />
               <br />
-              He could be reached through: nkudu4luv@gmail.com
+              He could be reached through:
+              <a href="mailto:nkudu4luv@gmail.com"> nkudu4luv@gmail.com </a>
               <br />
               <br />
             </Typography>
@@ -688,15 +696,34 @@ const About = () => {
               conference travel grant (2019); TETFUND Institutional based
               research grant (2019); ISI statistical capacity grant (2020).
               <br />
-              <br /> He could be reached through: adenomonmo@nsuk.edu.ng . He
-              could also be found in:  Scopus with the following ID:
-              scopus.com/authid/detail.uri?authorld=57215507440 ;  Web of
-              Science ResearcherID: AAU-5175-2020 
-              Mendeley:Mendeley.com/authors/57215507440/  Google citation:
-              https://scholar.google.com/citations?user=fqNq8EcAAAAJ&hl=en 
-              Research gate citation:
-              https://www.researchgate.net/profile/Monday_Adenomon  Open
-              Research Contributors ID: https://orcid.org/0000-0002-9523-8032
+              <br /> He could be reached through:
+              <a href="mailto:   adenomonmo@nsuk.edu.ng ">
+                adenomonmo@nsuk.edu.ng
+              </a>
+              .
+              <br />
+              <br />
+              He could also be found in:
+              <br />  Scopus with the following ID:
+              <a href=" scopus.com/authid/detail.uri?authorld=57215507440 ">
+                scopus.com/authid/detail.uri?authorld=57215507440
+              </a>
+              <br /> Web of Science ResearcherID: AAU-5175-2020
+              <a href="  Mendeley:Mendeley.com/authors/57215507440/">
+                Mendeley:Mendeley.com/authors/57215507440/
+              </a>{" "}
+              <br /> Google citation:
+              <a href="  https://scholar.google.com/citations?user=fqNq8EcAAAAJ&hl=en">
+                https://scholar.google.com/citations?user=fqNq8EcAAAAJ&hl=en
+              </a>
+              <br /> Research gate citation:
+              <a href=" https://www.researchgate.net/profile/Monday_Adenomon">
+                https://www.researchgate.net/profile/Monday_Adenomon
+              </a>
+              <br /> Open Research Contributors ID:
+              <a href=" https://orcid.org/0000-0002-9523-8032">
+                https://orcid.org/0000-0002-9523-8032
+              </a>
               <br />
               <br />
             </Typography>
