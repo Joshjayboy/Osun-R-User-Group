@@ -70,19 +70,23 @@ const Home = () => {
   };
   const slideImages = [
     {
-      url: "https://res.cloudinary.com/pro-solve/image/upload/v1702269390/jason-goodman-vbxyFxlgpjM-unsplash_p3j3ox.jpg",
+      url: "https://res.cloudinary.com/pro-solve/image/upload/v1702593088/WhatsApp_Image_2023-12-14_at_1.33.38_AM_g9nj59.jpg",
       caption: "",
     },
     {
-      url: "https://res.cloudinary.com/pro-solve/image/upload/v1702272436/austin-distel-rxpThOwuVgE-unsplash_iubdmq.jpg",
+      url: "https://res.cloudinary.com/pro-solve/image/upload/v1702593135/WhatsApp_Image_2023-12-14_at_1.25.37_AM_mbq1af.jpg",
       caption: "",
     },
     {
-      url: "https://res.cloudinary.com/pro-solve/image/upload/v1702272568/kevin-bhagat-zNRITe8NPqY-unsplash_yglmhy.jpg",
+      url: "https://res.cloudinary.com/pro-solve/image/upload/v1702593134/WhatsApp_Image_2023-12-14_at_1.32.27_AM_q4082u.jpg",
       caption: "",
     },
     {
       url: "https://res.cloudinary.com/pro-solve/image/upload/v1702587866/man_zwgkqw.jpg",
+      caption: "",
+    },
+    {
+      url: "https://res.cloudinary.com/pro-solve/image/upload/v1702593133/WhatsApp_Image_2023-12-14_at_1.25.32_AM_pm7jn1.jpg",
       caption: "",
     },
   ];
@@ -378,23 +382,50 @@ const Home = () => {
               letterSpacing: "1px",
             }}
           >
-            *Excellence: We value excellence in all aspects of our work, driving
-            us to pursue the highest standards in research, education, and
-            ethical practice.
+            <span
+              style={{
+                fontWeight: 900,
+              }}
+            >
+              Excellence:
+            </span>{" "}
+            We value excellence in all aspects of our work, driving us to pursue
+            the highest standards in research, education, and ethical practice.
             <br />
-            *Integrity: We uphold the principles of integrity, transparency, and
-            ethical conduct in our research activities, educational initiatives,
-            and collaborative endeavors.
+            <span
+              style={{
+                fontWeight: 800,
+              }}
+            >
+              Integrity:
+            </span>{" "}
+            We uphold the principles of integrity, transparency, and ethical
+            conduct in our research activities, educational initiatives, and
+            collaborative endeavors.
             <br />
-            *Innovation: We are committed to fostering a nurturing environment
-            that encourages innovative thinking, empowers creativity, and
-            embraces technological advancements in computational statistics and
-            data science.
+            <span
+              style={{
+                fontWeight: 800,
+              }}
+            >
+              Innovation:
+            </span>{" "}
+            We are committed to fostering a nurturing environment that
+            encourages innovative thinking, empowers creativity, and embraces
+            technological advancements in computational statistics and data
+            science.
             <br />
-            *Diversity and Inclusion: We celebrate diversity, promote equity,
-            and foster inclusivity within our community, acknowledging the rich
-            tapestry of backgrounds, experiences, and perspectives that drive
-            our collective success.
+            <span
+              style={{
+                fontWeight: 900,
+              }}
+            >
+              Diversity and Inclusion:
+            </span>{" "}
+            We celebrate diversity, promote equity, and foster inclusivity
+            within our community, acknowledging the rich tapestry of
+            backgrounds, experiences, and perspectives that drive our collective
+            success.
           </Typography>
         </Box>
         <Box
@@ -425,23 +456,50 @@ const Home = () => {
                 letterSpacing: "1px",
               }}
             >
-              *Research Excellence: Drive groundbreaking research in
-              computational statistics, machine learning, and data analysis,
-              contributing to advancements in statistical theory and practice.
+              <span
+                style={{
+                  fontWeight: 900,
+                }}
+              >
+                Research Excellence:
+              </span>{" "}
+              Drive groundbreaking research in computational statistics, machine
+              learning, and data analysis, contributing to advancements in
+              statistical theory and practice.
               <br />
-              *Education and Training: Provide comprehensive, industry-relevant
-              data science training programs, fostering a new generation of
-              skilled practitioners and researchers in the field.
+              <span
+                style={{
+                  fontWeight: 900,
+                }}
+              >
+                Education and Training:
+              </span>{" "}
+              Provide comprehensive, industry-relevant data science training
+              programs, fostering a new generation of skilled practitioners and
+              researchers in the field.
               <br />
-              *Community Engagement: Foster collaborative partnerships and
-              engage with academic, professional, and public communities to
-              share knowledge, drive innovation, and impact societal change
-              through data-driven insights.
+              <span
+                style={{
+                  fontWeight: 900,
+                }}
+              >
+                Community Engagement:
+              </span>{" "}
+              Foster collaborative partnerships and engage with academic,
+              professional, and public communities to share knowledge, drive
+              innovation, and impact societal change through data-driven
+              insights.
               <br />
-              *Ethical Practice: Uphold the highest standards of ethical
-              conduct, data privacy, and research integrity in all our
-              activities, ensuring the responsible and ethical use of data and
-              statistical methodologies.
+              <span
+                style={{
+                  fontWeight: 900,
+                }}
+              >
+                Ethical Practice:
+              </span>{" "}
+              Uphold the highest standards of ethical conduct, data privacy, and
+              research integrity in all our activities, ensuring the responsible
+              and ethical use of data and statistical methodologies.
             </Typography>
           </Box>
         </Box>
@@ -461,10 +519,6 @@ const Home = () => {
           }}
         >
           <Box
-            // sx={{
-            //   mt: 5,
-            //   mb: 5,
-            // }}
             sx={{
               textAlign: "left",
               lineHeight: "35px",
@@ -474,28 +528,66 @@ const Home = () => {
             Our training programs cover a broad spectrum of topics, including
             but not limited to:
             <br />
-            *Machine Learning: Advanced techniques in supervised and
-            unsupervised learning, deep learning, and neural network
-            applications.
+            <span
+              style={{
+                fontWeight: 900,
+              }}
+            >
+              Machine Learning:
+            </span>{" "}
+            Advanced techniques in supervised and unsupervised learning, deep
+            learning, and neural network applications.
             <br />
-            *Statistical Programming: Proficiency in R, Python, and other
-            statistical software, enabling participants to perform sophisticated
-            data analysis and modeling.
+            <span
+              style={{
+                fontWeight: 900,
+              }}
+            >
+              Statistical Programming:
+            </span>{" "}
+            Proficiency in R, Python, and other statistical software, enabling
+            participants to perform sophisticated data analysis and modeling.
             <br />
-            *Big Data Analytics: Strategies for handling and analyzing complex,
-            large-scale datasets using distributed computing environments and
-            cloud-based platforms.
+            <span
+              style={{
+                fontWeight: 900,
+              }}
+            >
+              Big Data Analytics:
+            </span>{" "}
+            Strategies for handling and analyzing complex, large-scale datasets
+            using distributed computing environments and cloud-based platforms.
             <br />
-            *Data Visualization: Effective techniques for visually communicating
-            quantitative and qualitative insights derived from data analysis.
+            <span
+              style={{
+                fontWeight: 900,
+              }}
+            >
+              Data Visualization:
+            </span>{" "}
+            Effective techniques for visually communicating quantitative and
+            qualitative insights derived from data analysis.
             <br />
-            *Statistical Modeling: Advanced statistical modeling approaches for
-            predictive analytics, forecasting, and hypothesis testing across
-            various domains.
+            <span
+              style={{
+                fontWeight: 900,
+              }}
+            >
+              Statistical Modeling:
+            </span>{" "}
+            Advanced statistical modeling approaches for predictive analytics,
+            forecasting, and hypothesis testing across various domains.
             <br />
-            *Ethical Data Use: A focus on understanding ethical principles, data
-            privacy regulations, and responsible data use in research, industry,
-            and policy-making applications. Through our comprehensive training
+            <span
+              style={{
+                fontWeight: 900,
+              }}
+            >
+              Ethical Data Use:
+            </span>{" "}
+            A focus on understanding ethical principles, data privacy
+            regulations, and responsible data use in research, industry, and
+            policy-making applications. Through our comprehensive training
             scope, we aim to equip participants with the theoretical foundation,
             practical skills, and ethical considerations necessary for success
             in the dynamic, ever-evolving field of computational statistics and
@@ -510,26 +602,6 @@ const Home = () => {
             theoretical foundations and practical applications, our training
             initiatives cultivate leaders in the field of data science.
           </Box>
-        </Box>
-
-        <Box
-          sx={{
-            textAlign: "left",
-            lineHeight: "35px",
-            letterSpacing: "1px",
-          }}
-        >
-          <Typography
-            display="inline"
-            sx={{
-              fontWeight: "900",
-            }}
-          >
-            NB:{" "}
-          </Typography>
-          Evidence of payments (in form of duly signed and stamped receipts)
-          will be issued to all registered participants on arrival at the venue
-          of the training workshop.
         </Box>
 
         <Box sx={{ mt: 10 }}></Box>
