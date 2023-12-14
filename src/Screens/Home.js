@@ -164,7 +164,7 @@ const Home = () => {
             sx={{
               textAlign: "left",
               mt: 5,
-              color: "#0066FF",
+              color: "#cb9c0e",
               fontWeight: 900,
               lineHeight: "35px",
               letterSpacing: "1px",
@@ -779,7 +779,7 @@ const Home = () => {
               sx={{
                 textAlign: "left",
                 mt: 5,
-                color: "#0066FF",
+                color: "#cb9c0e",
                 fontWeight: 900,
                 lineHeight: "35px",
                 letterSpacing: "1px",
@@ -787,7 +787,7 @@ const Home = () => {
             >
               Timothy A. Ogunleye: A Visionary Statistician and Data Scientist
             </Typography>
-            <Typography
+            {/* <Typography
               align="justify"
               sx={{
                 mt: 2,
@@ -879,7 +879,7 @@ const Home = () => {
               within these critical domains.
               <br />
               <br />
-            </Typography>
+            </Typography> */}
           </Box>
         </Box>
 
